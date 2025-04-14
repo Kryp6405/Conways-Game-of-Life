@@ -11,7 +11,7 @@ using namespace std;
     CUDA kernels will be launched with block size blockDimSize by blockDimSize. */
 constexpr int blockDimSize = 8;
 
-/*  Your job is to write compute_on_gpu. It computes a single iteration of Game of Life.
+/*  This function computes a single iteration of Game of Life.
     life is the grid to write data into. previous_life is the grid from the previous generation.
     Previous life has already been copied into life from last generation. You do not need to copy it again.
     X_limit and Y_limit are the problem size.

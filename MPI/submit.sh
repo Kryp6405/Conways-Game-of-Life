@@ -4,7 +4,6 @@
 #SBATCH -N 1
 #SBATCH --ntasks=128
 #SBATCH -t 00:05:00
-#SBATCH -A cmsc416-class
 
 
 # This is to suppress the warning about not finding a GPU resource
