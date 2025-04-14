@@ -53,7 +53,7 @@ This project implements Conway’s Game of Life using two parallel paradigms:
             <li>Careful tuning of grid and block dimensions is critical to balance parallelism and resource usage.
         </ul>
     </ul>
-    (See <a href="https://github.com/Kryp6405/Conways-Game-of-Life/blob/main/CUDA_Analysis.pdf">CUDA_Analysis.pdf</a> for full details.)
+    (See <a href="https://github.com/Kryp6405/Conways-Game-of-Life/blob/main/Cuda_Analysis.pdf">CUDA_Analysis.pdf</a> for full details.)
 </ul>
 
 ## Prerequisites
